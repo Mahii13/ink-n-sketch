@@ -1,0 +1,48 @@
+#button{
+background-color: darkviolet ;
+font-family: "comic sans ms";
+color: ghostwhite;
+margin-top: 5px;
+padding: 15px;
+height: 70px;
+width: 110px;
+border-radius: 20%;
+margin: -6px;
+}
+
+body{
+    text-align: center;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2wltPTYYfnvzICDBQpkqlyuTrIli76IsiMQ&usqp=CAU") no-repeat ;
+    background-position: center;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: -0%;
+    background-clip: padding-box;
+}
+
+.poem{
+    font-family:'french script MT';
+    font-size: 60px;
+    margin-top: 3px;
+    background-color: white;
+    border-radius: 50%;
+    border-top-left-radius: 40%;
+    border-collapse: collapse;
+}
+h3{
+    margin-top: 0%;
+    font-family: 'monospaces';
+    margin-left: 110px;
+    font-size: 30px;
+}
+h1{
+    font-family: 'broadway';
+    font-size: 60px;
+}
+.button-insta{
+    font-size: 20px;
+    text-shadow: cornflowerblue;
+    margin-top: 50px;
+
+
+}
